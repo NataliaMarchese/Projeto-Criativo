@@ -64,8 +64,12 @@ section {
     align-items: center;
 
     & img {
-        width: 700px;
-        height: auto;
+        width: 417.2721862792969;
+        height: 269.3020935058594;
+
+
+
+
     }
 
     & .content {
@@ -75,21 +79,24 @@ section {
         flex-direction: column;
 
         & h1 {
-            color: #1f1f39;
-            font-size: 70px;
+            color: #1F1F39;
             font-weight: 700;
+            font-size: 70px;
+            line-height: 80px;
+
         }
 
         & p {
             font-size: 28px;
             line-height: 48px;
             color: #1f1f39b2;
+            font-weight: 400;
 
         }
 
         & button {
             width: 246.49px;
-            padding: 18px;
+            padding: 10.87px;
             border-radius: 10.87px;
             border: none;
             background: #1f1f39;
@@ -129,7 +136,7 @@ section {
         justify-content: space-between;
 
         & .card {
-            width: 680px;
+            width: 400px;
 
             & img {
                 width: 100%;
